@@ -4,7 +4,7 @@ module.exports = {
 			<!doctype html>
 			<html>
 				<head>
-					<title>NgomikAjaUdah, baca komik dengan nyaman!</title>
+					<title>Suit Up Chatter: Drama of personas</title>
 					<meta name=viewport content=width=device-width,initial-scale=1>
 					<style>
 						main{
@@ -153,7 +153,7 @@ module.exports = {
 							}
 						}
 					</style>
-					<link rel=icon href=file?fn=happy-face.png>
+					<link rel=icon href=file?fn=logos.png>
 				</head>
 				<body></body>
 				<script src="http://localhost:3000/socket.io/socket.io.js"></script>
