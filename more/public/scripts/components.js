@@ -1,4 +1,4 @@
-let socket = io("http://localhost:3000");
+let socket = io("https://suitupchatter.cyclic.app:3000");
 const header = makeElement('header',{
 	style:`
 		display:flex;
